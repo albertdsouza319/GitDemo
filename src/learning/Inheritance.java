@@ -31,5 +31,9 @@ public class Inheritance {
 		a1.comment();
 		System.out.println(a1.notification);
 	}
-
+	public void test(){
+		System.out.println("develop branch");
+	}
+	
+	
 }

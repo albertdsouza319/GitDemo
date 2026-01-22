@@ -13,6 +13,9 @@ public class Array1 {
 		winter,winter,summer,summer,summer,spring,spring,autumn,autumn,autumn,autumn,winter	};
 	
 
+	public void test(){
+		System.out.println("develop branch");
+	}
 	public static void main(String[] args)
 	{
 		// TODO Auto-generated method stub
@@ -26,6 +29,7 @@ public class Array1 {
 			System.out.println("git demo 4");
 			System.out.println("test for gitpull");
 			// adding from another user for push test
+		
 		}
 	}
 
