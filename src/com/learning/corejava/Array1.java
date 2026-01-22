@@ -20,6 +20,10 @@ public class Array1 {
 		{
 			System.out.println(months[month] + " is "+ session[month] +" month with "
 		+ monthdays[month]+" days ");
+			System.out.println("git demo 1");
+			System.out.println("git demo 2");
+			System.out.println("git demo 3");
+			System.out.println("git demo 4");
 			
 		}
 	}
